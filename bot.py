@@ -27,6 +27,7 @@ REPORTERS = {
     "José Félix Díaz": '"José Félix Díaz" Real Madrid',
     "Arancha Rodríguez": '"Arancha Rodríguez" Real Madrid',
     "José Luis Sánchez": '"José Luis Sánchez" Real Madrid',
+    "El Chiringuito": '"El Chiringuito" Real Madrid',
 }
 
 # Nur Schlagzeilen mit einem dieser Wörter werden geschickt
